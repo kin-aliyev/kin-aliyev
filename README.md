@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ilkin</h1>
-<h3 align="center">Android Developer from Azerbaijan</h3>
+# Ilkin Aliyev 🐐 
+**`Android Developer from Azerbaijan`** 
 
-- 🔭 I’m currently working on [Memorify](https://github.com/kin-aliyev/Memorify)
+## About Me
+- I have some works with **Kotlin**, **Jetpack Compose**, contact me if you have same interesting or some questions!
+- I’m currently working on [Memorify](https://github.com/kin-aliyev/Memorify)
 
-- 📫 How to reach me **ilk.aliyev04@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/k1n_didarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kin_d1darov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kin-aliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kin didarov" height="30" width="40" /></a>
-</p>
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,androidstudio,git,github,java,sqlite,postman,figma&theme=light&perline=4)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+
+<a href="mailto:ilk.aliyev04@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/kin.d1darov/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
