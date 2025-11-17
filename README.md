@@ -8,16 +8,26 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,androidstudio,git,github,java,sqlite,postman,figma&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,androidstudio,git,github,java,sqlite,postman,figma&theme=light)](https://skillicons.dev)
+<a href="https://developer.android.com/compose" target="_blank">
+  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/jetpackcompose.png" alt="Jetpack Compose" width="48"/>
+</a>
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+
 <a href="mailto:ilk.aliyev04@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="42"/>
 </a>
 <a href="https://www.instagram.com/kin.d1darov/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="42"/>
+</a>
+<a href="https://leetcode.com/u/kin-aliyev/" target="_blank">
+  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/telegram.png" alt="Leetcode" width="42"/>
+</a>
+<a href="https://leetcode.com/u/kin-aliyev/" target="_blank">
+  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/LeetCode_logo_black.png" alt="Leetcode" width="42"/>
 </a>
 
 ---
