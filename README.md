@@ -23,8 +23,8 @@
 <a href="https://www.instagram.com/kin.d1darov/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="42"/>
 </a>
-<a href="https://leetcode.com/u/kin-aliyev/" target="_blank">
-  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/telegram.png" alt="Leetcode" width="42"/>
+<a href="https://t.me/kin_aliyev" target="_blank">
+  <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/telegram.png" alt="Telegram" width="42"/>
 </a>
 <a href="https://leetcode.com/u/kin-aliyev/" target="_blank">
   <img src="https://github.com/kin-aliyev/kin-aliyev/blob/main/assets/icons/LeetCode_logo_black.png" alt="Leetcode" width="42"/>
