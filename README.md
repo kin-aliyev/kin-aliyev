@@ -14,11 +14,12 @@
 </a>
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 
 <a href="mailto:ilk.aliyev04@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="42"/>
+</a>
+<a href="https://www.linkedin.com/in/kin-aliyev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="42"/>
 </a>
 <a href="https://www.instagram.com/kin.d1darov/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="42"/>
