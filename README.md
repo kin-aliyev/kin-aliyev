@@ -39,14 +39,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/kin-aliyev/Gymify">
-        <img src="YOUR_IMAGE_URL"
+        <img src="assets/screenshots/Gymify Project Cover.jpg"
              alt="Gymify Project Cover"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:330px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Gymify — Workout Planner & Training Analytics</b><br/>
       <sub>Android app built with Jetpack Compose and Room. Features workout planning, session tracking, time-based analytics, and clean MVI architecture.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      🔗 <a href="https://github.com/kin-aliyev/Gymify/blob/main/README.md">Repo</a>
       <br/>
       <sub>Tags: Android, Kotlin, Compose, Room, MVI, Clean Architecture</sub>
     </td>
@@ -54,7 +54,7 @@
       <a href="https://github.com/kin-aliyev/Memorify">
         <img src="YOUR_IMAGE_URL"
              alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:auto; object-fit:cover;"/>
       </a>
       <br/>
       <b>Memorify — AI-Powered Flashcards</b><br/>
