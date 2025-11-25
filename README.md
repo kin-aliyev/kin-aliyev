@@ -38,22 +38,22 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/kin-aliyev/Gymify">
+      <a href="https://github.com/kin-aliyev/Gymify/blob/main/README.md">
         <img src="assets/screenshots/Gymify Project Cover.jpg"
              alt="Gymify Project Cover"
-             style="width:100%; height:330px; object-fit:cover;"/>
+             style="width:100%; height:auto; object-fit:cover;"/>
       </a>
       <br/>
       <b>Gymify — Workout Planner & Training Analytics</b><br/>
       <sub>Android app built with Jetpack Compose and Room. Features workout planning, session tracking, time-based analytics, and clean MVI architecture.</sub><br/>
-      🔗 <a href="https://github.com/kin-aliyev/Gymify/blob/main/README.md">Repo</a>
+      🔗 <a href="https://github.com/kin-aliyev/Gymify">Repo</a>
       <br/>
       <sub>Tags: Android, Kotlin, Compose, Room, MVI, Clean Architecture</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/kin-aliyev/Memorify">
         <img src="YOUR_IMAGE_URL"
-             alt="VPC Networking Project"
+             alt="Memorify Project Cover"
              style="width:100%; height:auto; object-fit:cover;"/>
       </a>
       <br/>
